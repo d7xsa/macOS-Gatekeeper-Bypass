@@ -13,8 +13,7 @@ A vulnerability in macOS Gatekeeper allows an attacker to replace the main execu
 ## Impact
 Arbitrary code execution, potential for privilege escalation and data loss.
 
-## Proof of Concept
-<Include code snippets or commands>
+
 
 ## Suggested Mitigation
 The system should revalidate app signatures upon every launch.
